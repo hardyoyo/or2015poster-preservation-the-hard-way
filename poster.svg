@@ -37,9 +37,9 @@
      borderopacity="1"
      inkscape:pageopacity="1.0"
      inkscape:pageshadow="0"
-     inkscape:zoom="0.23611111"
-     inkscape:cx="2527.8024"
-     inkscape:cy="1088.0142"
+     inkscape:zoom="0.47222222"
+     inkscape:cx="2083.8936"
+     inkscape:cy="2114.8594"
      inkscape:document-units="in"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -288,7 +288,7 @@
          sodipodi:role="line"
          x="900"
          y="-1821.6403"
-         id="tspan3079-9">DSpace does not actually delete bitstreams right away, it merely marks the bitstream metadata for deletion. </tspan><tspan
+         id="tspan3079-9">DSpace does not actually delete bitstreams right away; it merely marks the bitstream metadata for deletion. </tspan><tspan
          sodipodi:role="line"
          x="900"
          y="-1779.1403"
