@@ -21,6 +21,11 @@ administrator for her campus' top level community in MOspace (the institutional 
 of the University of Missouri). She provided the inspiration for this poster, and has
 been a good sport through much kidding. I'm glad we found the undelete button.
 
+###Mark Wood
+Fellow committer and release team member, seemingly *always* available for a chat in IRC, 
+and always willing to pitch in, help wrestle a bug, or, in this case, provide much-needed
+editorial review of this poster copy.
+
 ## Image Credits
 
 _The Chumps_ by Lungstruck: https://flic.kr/p/dTGBLP 
