@@ -27,6 +27,6 @@ _The Chumps_ by Lungstruck: https://flic.kr/p/dTGBLP
 
 ## Fonts
 
-Copse http://www.fontsquirrel.com/fonts/copse
-Open Sans http://www.fontsquirrel.com/fonts/open-sans
+* Copse http://www.fontsquirrel.com/fonts/copse
+* Open Sans http://www.fontsquirrel.com/fonts/open-sans
 
