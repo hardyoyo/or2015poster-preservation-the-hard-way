@@ -38,8 +38,8 @@
      inkscape:pageopacity="1.0"
      inkscape:pageshadow="0"
      inkscape:zoom="0.23611111"
-     inkscape:cx="2951.9769"
-     inkscape:cy="1719.1365"
+     inkscape:cx="2171.9426"
+     inkscape:cy="1555.4851"
      inkscape:document-units="in"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -47,7 +47,7 @@
      showborder="true"
      inkscape:window-width="1920"
      inkscape:window-height="1030"
-     inkscape:window-x="1280"
+     inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      showguides="true"
@@ -891,5 +891,37 @@
    id="tspan3364">9</tspan> and Open Sans<tspan
    style="font-size:65%;baseline-shift:super"
    id="tspan3366">10</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+       x="3492"
+       y="-513.64032"
+       id="text3186"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3189"
+         x="3492"
+         y="-513.64032"
+         style="font-weight:bold">Digital Preservation the Hard Way</tspan><tspan
+         sodipodi:role="line"
+         x="3492"
+         y="-493.64029"
+         id="tspan3199">Hardy Pottinger @HardyPottinger</tspan><tspan
+         sodipodi:role="line"
+         x="3492"
+         y="-473.64029"
+         id="tspan3193">University of Missouri Library Systems</tspan><tspan
+         sodipodi:role="line"
+         x="3492"
+         y="-453.64029"
+         id="tspan3203">pottingerhj@missouri.edu</tspan><tspan
+         sodipodi:role="line"
+         x="3492"
+         y="-433.64029"
+         id="tspan3195">Open Repositories 2015 Poster Session</tspan><tspan
+         sodipodi:role="line"
+         x="3492"
+         y="-413.64029"
+         id="tspan3197">June 9, 2015</tspan></text>
   </g>
 </svg>

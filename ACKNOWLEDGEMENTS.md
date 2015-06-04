@@ -1,4 +1,6 @@
 # Digital Preservation the Hard Way
+## Hardy Pottinger @HardyPottinger
+## University of Missouri Library Systems
 ###Open Repositories 2015 Poster Session
 ###June 9, 2015
 
